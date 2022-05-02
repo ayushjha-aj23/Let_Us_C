@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588014025 source:d:\programs\let us c\chapter 2. c instrustions\question (c)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
